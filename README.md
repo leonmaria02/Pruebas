@@ -1,2 +1,2 @@
 # PRUEBAS
-Este es mi repositorio de pruebas
+Este es mi repositorio de pruebas.
